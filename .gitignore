@@ -8,6 +8,7 @@
 /.claude/*
 !/.claude/skills/
 !/.claude/skills/**
+!/.claude/settings.json
 !/hooks/
 !/hooks/**
 !/.github/
